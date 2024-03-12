@@ -1,0 +1,7 @@
+[
+  { "name": "Apple Watch Series 6", "id": "AW6", "price": 399 },
+  { "name": "Samsung Galaxy Watch 4", "id": "SGW4", "price": 349 },
+  { "name": "Fitbit Sense", "id": "FS", "price": 299 },
+  { "name": "Garmin Forerunner 945", "id": "GF945", "price": 599 },
+  { "name": "Huawei Watch GT 2 Pro", "id": "HWGT2P", "price": 299654654 }
+]
